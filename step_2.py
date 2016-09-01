@@ -35,4 +35,4 @@ def reverseAndSend(token) :
 
 token = '0613c21581d3243b69b6bab93e8f12bf'
 
-step2(token)
+reverseAndSend(token)
